@@ -74,7 +74,7 @@ public class Student {
 	}
 
 
-	public void enroll(){
+	public void enroll(String course){
 		System.out.println("Signing up for courses.");
 	}
 	
